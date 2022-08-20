@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fredgroom/jos-website/static/css/main.e6c13ad2.css",
-    "main.js": "/Fredgroom/jos-website/static/js/main.1e4aa1e7.js",
-    "static/js/787.360f374c.chunk.js": "/Fredgroom/jos-website/static/js/787.360f374c.chunk.js",
-    "index.html": "/Fredgroom/jos-website/index.html",
-    "main.e6c13ad2.css.map": "/Fredgroom/jos-website/static/css/main.e6c13ad2.css.map",
-    "main.1e4aa1e7.js.map": "/Fredgroom/jos-website/static/js/main.1e4aa1e7.js.map",
-    "787.360f374c.chunk.js.map": "/Fredgroom/jos-website/static/js/787.360f374c.chunk.js.map"
+    "main.css": "./static/css/main.e6c13ad2.css",
+    "main.js": "./static/js/main.81c9d714.js",
+    "static/js/787.360f374c.chunk.js": "./static/js/787.360f374c.chunk.js",
+    "index.html": "./index.html",
+    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
+    "main.81c9d714.js.map": "./static/js/main.81c9d714.js.map",
+    "787.360f374c.chunk.js.map": "./static/js/787.360f374c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1e4aa1e7.js"
+    "static/js/main.81c9d714.js"
   ]
 }
